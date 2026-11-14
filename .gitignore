@@ -16,3 +16,8 @@ GeneratedFirmwares.cpp
 GeneratedFirmwaresMD5.txt
 /MacKernelSDK
 /Lilu.kext
+
+.projectmem/events.jsonl
+.projectmem/watch.pid
+.projectmem/watch.log
+.projectmem/structure.json
